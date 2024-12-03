@@ -83,4 +83,4 @@ Tell us about yourself! What makes you tick? What do you love? Pineapple on pizz
 ## Other Links
 > :bulb: Any other links you want to add. Feel free to delete this section if you don't need it.
 > Use any emoji you like for bullets!
-:shrug: [Fandom.com Profile](<https://jusenkyo.fandom.com/wiki/YourName>)
+:fandom: [Fandom.com Profile](<https://jusenkyo.fandom.com/wiki/YourName>)
