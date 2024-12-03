@@ -2,10 +2,13 @@
 > Post in #introductions! Link your post in #introductions in the Author tags on #the-library.
 > You may add an image for an avatar or selfie if you're so inclined.
 > :null:
+> Title your post with your username.
+> Tag your post in #introductions with the `storyteller` tag. 
+>
 > Text in markup like this, with the :bulb: callouts, is instructional and should be deleted before posting.
 
 ## About Me
-> :bulb: A free-form introduction to you. Don't forget to set roles for your DM preferences and pronouns in #Channels and Roles!
+> :bulb: A free-form introduction to you. Don't forget to set roles for your DM preferences and pronouns in  [#Channels and Roles](https://discord.com/channels/260074028600000513/customize-community)!
 
 Tell us about yourself! What makes you tick? What do you love? Pineapple on pizza? Team Edward or Team Jacob? (Team Buffy, let's be real.)
 

@@ -1,6 +1,6 @@
 > :bulb: ***__Posting Guidelines__*** 
 > Post only your own work. Adding third-party work to the Library is limited to @Royalty. 
-> Posting in #the-library requires the Storyteller role.
+> Posting in #the-library requires the @Storyteller role.
 > Post one post per ***series***, or ***story*** if there is no series. indidivual chapters should be posted in #live-reader-reactions!
 > :null:
 > ### Post Titles
