@@ -3,7 +3,8 @@
 ## Meta
 
 ### Fandom(s)
-Ranma 1/2
+
+* Ranma 1/2
 
 ### Author(s)
 
@@ -17,8 +18,8 @@ Ranma 1/2
 
 ### Links
 
-:ao3: [Link](http://ao3.com/stuff)
-:scribblehub: [Link](http://scribblehub.com/)
+:ao3: [Archive of Our Own](http://ao3.com/stuff)
+:scribblehub: [Scribble Hub](http://scribblehub.com/)
 
 ## Summary
 
