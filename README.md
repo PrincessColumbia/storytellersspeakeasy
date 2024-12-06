@@ -1,2 +1,2 @@
 # storytellersspeakeasy
-Code snippets used for The Storyteller's Speakeasy Discord Server
+Code snippets and other assets used for The Storyteller's Speakeasy Discord Server
